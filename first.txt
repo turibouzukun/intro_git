@@ -3,3 +3,4 @@ Gitの練習をしていく.
 ・git add
 ・git commit
 git remove
+git status
